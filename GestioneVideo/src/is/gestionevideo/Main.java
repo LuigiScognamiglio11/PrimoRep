@@ -75,7 +75,7 @@ public class Main {
 		gestionevideo.rimuoviVideo(v2);
 		gestionevideo.rimuoviVideo(v3);
 		gestionevideo.rimuoviVideo(v4);
-
+		System.out.println("FINE");
 
 
 		
